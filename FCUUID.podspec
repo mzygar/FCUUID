@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = 'FCUUID'
-  spec.version      = '1.1.5'
+  spec.version      = '1.1.6'
   spec.license      = { :type => 'MIT' }
   spec.homepage     = 'https://github.com/fabiocaccamo/FCUUID'
   spec.authors      = { 'Fabio Caccamo' => 'fabio.caccamo@gmail.com' }
